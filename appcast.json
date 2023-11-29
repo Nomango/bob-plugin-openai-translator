@@ -2,6 +2,13 @@
   "identifier": "yetone.openai.translator",
   "versions": [
     {
+      "version": "2.1.3",
+      "desc": "fix: ignore empty choices",
+      "sha256": "f7be4b6655edeae1df1dfe80f23676ce2c37b27e448a1b8d0d27a166a60608d9",
+      "url": "https://github.com/yetone/bob-plugin-openai-translator/releases/download/v2.1.3/openai-translator-2.1.3.bobplugin",
+      "minBobVersion": "1.8.0"
+    },
+    {
       "version": "2.1.2",
       "desc": "Compress the logo",
       "sha256": "98cc3116f451050792ce2338e819641f55c78146f3c92b1a23c8f6b23c6803cb",
